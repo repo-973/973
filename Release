@@ -1,7 +1,7 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
+Origin: ABO SAMI
+Label: ABO SAMI
 Suite: stable
-Version: 1.0
+Version: 13.5
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
