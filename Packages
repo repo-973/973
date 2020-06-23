@@ -1,0 +1,13 @@
+Package: تحديث الشارب2.2.4
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: ABO SAMI
+Filename: Package: sharpshooter/تحديث الشارب2.2.4.deb
+Size: 3561724
+MD5sum: 23f827a1892b247364197a7d26a9e147
+SHA1: 7702f04c698b9e33bd45c9f2479f79ad0756c248
+SHA256: 12ab6c2fb2f1d94dac9cbdb60943777bee1dc035081e5b44e7e6b59e80989768
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.5
+Depiction: https://repo-973.github.io/973/
+Name: تحديث الشارب2.2.4
